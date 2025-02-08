@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ### 🔭 I'm currently learning *Flutter*
-### 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+### 📫 How to reach me: [ajitkumar.546a@gmail.com](mailto:ajitkumar.546a@gmail.com)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajit-kumar-prajapati-3922b5250/)

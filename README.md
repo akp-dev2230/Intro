@@ -51,5 +51,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akp-dev2230&" alt="akp-dev2230" /></p>
 
 
-## Here's my contribution graph
-![snake gif](https://github.com/akp-dev2230/blob/output/github-contribution-grid-snake.gif)

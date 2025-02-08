@@ -1,15 +1,21 @@
-# Hi 👋, I'm Ajit Kumar Prajapati 
+<h1 align="left">Hi 👋, I'm Ajit Kumar Prajapati</h1>
+<h3 align="left">A Flutter Developer from India</h3>
 
-A Flutter developer from India  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akp-dev2230&label=Profile%20views&color=0e75b6&style=flat" alt="akp-dev2230" /> </p>
 
-📊 *GitHub Stats*  
-![Profile Views](https://komarev.com/ghpvc/?username=akp-dev2230&label=Profile%20views&color=blue&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akp-dev2230&show_icons=true&theme=radical)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akp-dev2230" alt="ajit" /></a> </p>
 
-## 🏆 GitHub Achievements  
-![Trophy](https://github-profile-trophy.vercel.app/?username=akp-dev2230&theme=darkhub&no-bg=true&margin-w=4)  
+- 🌱 I’m currently learning *Flutter, Getx, Bloc*
 
-## 🚀 Technologies & Tools  
+- 📫 How to reach me *ajitkumar.546a@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ajit-kumar-prajapati-3922b5250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akp-dev2230" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ajitkumar_546a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajitkumar_546a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
@@ -37,11 +43,13 @@ A Flutter developer from India
   </a> 
 </p>
 
-## 🌱 I’m currently learning  
-- Rest API
-- Getx 
-- Bloc  
 
-## 📫 How to reach me  
-📧 Email: [ajitkumar.546a@gmail.com](mailto:ajitkumar.546a@gmail.com)  
-🌐 LinkedIn: [My Profile](https://www.linkedin.com/in/ajit-kumar-prajapati-3922b5250/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akp-dev2230&show_icons=true&locale=en&layout=compact" alt="akp-dev2230" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akp-dev2230&show_icons=true&locale=en" alt="akp-dev2230" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akp-dev2230&" alt="akp-dev2230" /></p>
+
+
+## Here's my contribution graph
+![snake gif](https://github.com/akp-dev2230/blob/output/github-contribution-grid-snake.gif)
